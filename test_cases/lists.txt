@@ -1,0 +1,10 @@
+list A = [1,2,3,4,5,6];
+list B = [];
+chapo(B);
+chapo(A.slice(0, 2));
+B.push("Get Ready!");
+B.push("Done!");
+chapo(B.index(1));
+string C = "Well " + B.pop(1);
+chapo(C);
+chapo(A[7]);

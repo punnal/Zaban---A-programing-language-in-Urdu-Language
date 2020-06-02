@@ -1,0 +1,13 @@
+string mystring = ("theory" + " of ") + "automata";
+int a = 1;
+int b = 4;
+b++;
+chapo(mystring);
+double c = (1.5+0.5+1);
+double determinant = b ^ 2 - 4 * a * c;
+double quadratic_root1 = (-b + determinant^(1/2)) / ( 2.0*a );
+chapo(quadratic_root1);
+bool d = ghalat;
+chapo(not darust == (not (not d)) and (darust != 0));
+chapo(4 + "A");
+chapo("Hi");

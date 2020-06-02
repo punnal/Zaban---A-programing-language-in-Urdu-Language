@@ -1,0 +1,2 @@
+chapo("STANDARD OUTPUT");
+chapo(5.4, darust, 2);

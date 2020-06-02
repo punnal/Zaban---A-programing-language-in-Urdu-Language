@@ -1,0 +1,11 @@
+string a = "start";
+int b = 1;
+double c = 2.5;
+bool d = ghalat;
+int e = 0;
+string f = "end";
+chapo(a);
+chapo(b,c);
+chapo(d,e);
+chapo(f);
+int e = 5;

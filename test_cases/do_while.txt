@@ -1,0 +1,15 @@
+int i=0;
+karo {
+	int j=0;
+	karo
+	{
+		int k=0;
+		karo
+		{
+			chapo("(", i, ",", j, ",", k, ")");
+			k++;
+		} jabtak (k<2);
+		j++;
+	} jabtak (j<2);
+	i++;
+} jabtak (i<2);
